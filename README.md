@@ -17,13 +17,13 @@ Bem-vindo ao **SpeedTest App**, uma aplicação em Python desenvolvida com o Str
 ## 🖼️ Interface do Aplicativo
 
 ### Tela 1 - Tela principal
-<img src="./prints/Screenshot_1.png" alt="Tela Inicial" width="300"/>
+<img src="./prints/Screenshot_1.jpg" alt="Tela Inicial" width="300"/>
 
 ### Tela 2 - Tela de testando a velocidade
-<img src="./prints/Screenshot_2.png" alt="Testando" width="300"/>
+<img src="./prints/Screenshot_2.jpg" alt="Testando" width="300"/>
 
 ### Tela 3 - Tela de teste finalizado
-<img src="./prints/Screenshot_3.png" alt="Finalizado" width="300"/>
+<img src="./prints/Screenshot_3.jpg" alt="Finalizado" width="300"/>
 
 ### Tela Principal
 - Exibe um cabeçalho com o nome do aplicativo e uma breve descrição.
