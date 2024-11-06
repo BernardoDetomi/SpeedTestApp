@@ -80,7 +80,7 @@ Bem-vindo ao **SpeedTest App**, uma aplicação em Python desenvolvida com o Str
 Se você encontrar algum problema ou tiver dúvidas, sinta-se à vontade para abrir uma issue no repositório ou entre em contato:  
 
 - **Email**: bernardomd01@gmail.com 
-- **Twitter**: @Bernardo_MD  
+- **Twitter**: @Bernardo_md  
 - **Instagram**: @bernardoo.md  
 
 ## Contribuições  
